@@ -2,3 +2,11 @@ body {
     height: 100vh;
     width: 100vw;
 }
+
+.tab {
+    padding: 20px;  
+}
+
+#tab-container {
+    display: flex;
+}
